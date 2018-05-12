@@ -1,0 +1,38 @@
+_repo: The-Poems-of-Jonathan-Swift-D.D.-Volume-1_14353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+  editor:
+    agent_name: Ernst Browning, William
+    aliases:
+    - Ernst, W. (William)
+    - Browning, Ernst
+    - Browning, William Ernst
+    - Ernst-Browning, W. (William)
+    birthdate: 1830
+    gutenberg_agent_id: '5724'
+    url: http://www.gutenberg.org/2009/agents/5724
+description: ''
+gutenberg_issued: '2004-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: The Poems of Jonathan Swift, D.D., Volume 1
+url: http://www.gutenberg.org/ebooks/14353
